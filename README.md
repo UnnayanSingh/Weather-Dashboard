@@ -23,20 +23,6 @@ Includes **dynamic backgrounds, weather icons, dark/light mode, geolocation supp
 
 ---
 
-## 🖼 Demo Preview
-(Add screenshots of your app here after running it)  
-
-Example:  
-```
-/screenshots
-   ├── light-mode.png
-   ├── dark-mode.png
-   ├── sunny.png
-   ├── rainy.png
-```
-
----
-
 ## ⚠️ API Key Notice
 This project requires an API key from [OpenWeatherMap](https://openweathermap.org/api).  
 By default, a **demo key** is included in `w.js`.  
